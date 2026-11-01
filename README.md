@@ -1,1 +1,1 @@
-# year-1-programming-labs
+Programming laboratory assignments and practical exercises completed during the first year of the BSc (Hons) Computing Science degree at Griffith College Dublin. Covers programming fundamentals, problem-solving, and software development.
